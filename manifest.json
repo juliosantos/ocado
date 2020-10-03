@@ -1,0 +1,13 @@
+{
+  "name": "Ocado Cart",
+  "version": "0.1",
+  "description": "Ocado Cart.",
+  "permissions": [
+    "*://www.ocado.com/"
+  ],
+  "browser_action": {
+    "default_title": "Ocado Cart",
+    "default_popup": "menu.html"
+  },
+  "manifest_version": 2
+}
